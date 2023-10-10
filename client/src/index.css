@@ -1,0 +1,10 @@
+@import 'react-toastify/dist/ReactToastify.css';
+@import "tailwindcss/base"; 
+@import "tailwindcss/components"; 
+@import "tailwindcss/utilities";
+ li .active{
+    color: blue;
+ }
+
+  
+ 
